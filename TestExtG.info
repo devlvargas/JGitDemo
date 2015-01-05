@@ -1,0 +1,1 @@
+["com.consensus.platform.configuration.bo.Extension",{"jpaentity":["com.consensus.platform.configuration.data.COExtension",{"id":0,"name":"TestExtG","description":"TestExtG","version":"1","dependencyMap":["java.util.HashMap",{}],"moduleDependencies":["java.util.LinkedHashSet",[]]}]}]
