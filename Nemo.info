@@ -1,1 +1,1 @@
-["com.consensus.platform.configuration.bo.Extension",{"jpaentity":["com.consensus.platform.configuration.data.COExtension",{"id":0,"name":"Nemo","description":"sdfsdfsdf","version":"1","dependencyMap":["java.util.HashMap",{}],"moduleDependencies":["java.util.LinkedHashSet",[]]}]}]
+["com.consensus.platform.configuration.bo.Extension",{"jpaentity":["com.consensus.platform.configuration.data.COExtension",{"id":3,"name":"Nemo","description":"sdfsdfsdfUUUUUUUUUUUUUUUU","version":"1","dependencyMap":["java.util.HashMap",{}],"moduleDependencies":["java.util.LinkedHashSet",[]]}]}]
