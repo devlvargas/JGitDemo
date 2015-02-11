@@ -1,0 +1,1 @@
+["com.consensus.platform.configuration.bo.Extension",{"jpaentity":["com.consensus.platform.configuration.data.COExtension",{"id":0,"name":"Test779","description":"Test  for blocker issue","version":"1","dependencyMap":["java.util.HashMap",{}],"moduleDependencies":["java.util.LinkedHashSet",[]]}]}]
